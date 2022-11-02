@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.40",
+  "importer": "prefab",
+  "imported": true,
+  "uuid": "4f6b01e7-a349-4dc5-8e2b-1df06340a345",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {},
+  "userData": {
+    "syncNodeName": "Obstacle"
+  }
+}
